@@ -1,2 +1,1 @@
-# agents
-19thc. Jewish-American Press Agents Data
+# Agents for the mid-nineteenth century Jewish-American Press 
